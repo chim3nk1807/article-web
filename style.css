@@ -1,0 +1,16 @@
+section {
+    height: 210vh;
+    text-align: cemnter;
+}
+#hai {
+    background-color: red;
+}
+#about {
+    background-color: green;
+}
+#contact {
+    background-color: blue;
+}
+#blog {
+    background-color: yellow;
+}
